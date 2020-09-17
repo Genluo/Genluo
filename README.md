@@ -1,13 +1,13 @@
 ### Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=plastic&logo=appveyor&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/-TypeScript-%23031d30?style=plastic&logo=appveyor&logo=typescript)
-![React](https://img.shields.io/badge/-React-%23282C34?style=plastic&logo=appveyor&logo=react)
-![Node](https://img.shields.io/badge/-NodeJS-%23F05032?style=plastic&logo=Node.js&logoColor=%23ffffff)
-![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=plastic&logo=webpack)
-![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=plastic&logo=eslint)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=plastic&logo=git&logoColor=%23ffffff)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=plastic&logo=visual-studio-code)
-![Docker](https://img.shields.io/badge/-Docker-%232081e8?style=plastic&logo=docker&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=appveyor&labelColor=%23F7DF1C&color=%23FFCE5A)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%23031d30?style=flat&logo=appveyor&logo=typescript)
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat&logo=appveyor&logo=react)
+![Node](https://img.shields.io/badge/-NodeJS-%23F05032?style=flat&logo=Node.js&logoColor=%23ffffff)
+![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat&logo=webpack)
+![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat&logo=eslint)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat&logo=visual-studio-code)
+![Docker](https://img.shields.io/badge/-Docker-%232081e8?style=flat&logo=docker&logoColor=fff)
 ![Prettier](https://img.shields.io/badge/-Prettier-%23142027?logo=prettier)
 
 ### Goal
