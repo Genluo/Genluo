@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### 技术栈 🖥
+### 技术栈
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=plastic&logo=appveyor&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23031d30?style=plastic&logo=appveyor&logo=typescript)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=plastic&logo=appveyor&logo=react)
@@ -16,5 +14,5 @@
 
 ![深入方向](https://img.shields.io/badge/%E6%B7%B1%E5%85%A5%E6%96%B9%E5%90%91-%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%8C%96%E4%BD%93%E7%B3%BB(%E5%B7%A5%E7%A8%8B%E6%96%B9%E5%90%91%E3%80%81%E8%B7%A8%E7%AB%AF%E6%96%B9%E5%90%91)%20-red)
 
-### 最喜欢的语言😉
+### Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Genluo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
