@@ -9,7 +9,7 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat&logo=visual-studio-code)
 ![Docker](https://img.shields.io/badge/-Docker-%232081e8?style=flat&logo=docker&logoColor=fff)
 ![Prettier](https://img.shields.io/badge/-Prettier-%23142027?logo=prettier)
-![babel](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat&logo=babel)
+![babel](https://img.shields.io/badge/babel-brightgreen?style=flat&logo=babel)
 
 ### Goal
 
