@@ -14,6 +14,3 @@
 ### Goal
 
 ![深入方向](https://img.shields.io/badge/%E6%B7%B1%E5%85%A5%E6%96%B9%E5%90%91-%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%8C%96%E4%BD%93%E7%B3%BB(%E5%B7%A5%E7%A8%8B%E6%96%B9%E5%90%91%E3%80%81%E8%B7%A8%E7%AB%AF%E6%96%B9%E5%90%91)%20-red)
-
-### Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Genluo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
